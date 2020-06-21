@@ -1,6 +1,9 @@
 # wx_shop
 微信小程序——B2C商城
 
+学习文档以及API链接：https://www.showdoc.cc/128719739414963?page_id=2513235043485226<br/>
+![image](https://github.com/woocyouth/public_img/blob/master/wx_shop/API.png)<br/>
+
 首页<br/>
 ![image](https://github.com/woocyouth/public_img/blob/master/wx_shop/index.png)
 
