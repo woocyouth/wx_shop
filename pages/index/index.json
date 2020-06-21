@@ -1,0 +1,6 @@
+{
+  "usingComponents":{
+    "searchInput":"../../components/searchIput/searchInput"
+  },
+  "navigationBarTitleText": "WoocYouth--index"
+}
