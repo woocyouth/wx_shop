@@ -1,7 +1,7 @@
 # wx_shop
 微信小程序——B2C商城
 
-首页
+首页<br/>
 ![image](https://github.com/woocyouth/public_img/blob/master/wx_shop/index.png)
 
 分类页面
@@ -16,7 +16,7 @@
 未添加商品购物车
 ![image](https://github.com/woocyouth/public_img/blob/master/wx_shop/cart.png)
 
-已添加商品购物车
+已添加商品购物车<br/>
 ![image](https://github.com/woocyouth/public_img/blob/master/wx_shop/carted.png)
 
 登录页面
